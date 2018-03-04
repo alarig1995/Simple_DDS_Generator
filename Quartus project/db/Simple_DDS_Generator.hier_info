@@ -1,0 +1,27 @@
+|Simple_DDS_Generator
+Clk => cnt[0].CLK
+Clk => cnt[1].CLK
+Clk => cnt[2].CLK
+Clk => cnt[3].CLK
+Clk => cnt[4].CLK
+Clk => cnt[5].CLK
+Clk => cnt[6].CLK
+Clk => cnt[7].CLK
+Clk => cnt[8].CLK
+Clk => cnt[9].CLK
+Clk => cnt[10].CLK
+Clk => cnt[11].CLK
+Clk => cnt[12].CLK
+Clk => cnt[13].CLK
+Clk => cnt[14].CLK
+Clk => cnt[15].CLK
+DAC_Code[0] << cnt[7].DB_MAX_OUTPUT_PORT_TYPE
+DAC_Code[1] << cnt[7].DB_MAX_OUTPUT_PORT_TYPE
+DAC_Code[2] << cnt[7].DB_MAX_OUTPUT_PORT_TYPE
+DAC_Code[3] << cnt[7].DB_MAX_OUTPUT_PORT_TYPE
+DAC_Code[4] << cnt[7].DB_MAX_OUTPUT_PORT_TYPE
+DAC_Code[5] << cnt[7].DB_MAX_OUTPUT_PORT_TYPE
+DAC_Code[6] << cnt[7].DB_MAX_OUTPUT_PORT_TYPE
+DAC_Code[7] << cnt[7].DB_MAX_OUTPUT_PORT_TYPE
+
+
